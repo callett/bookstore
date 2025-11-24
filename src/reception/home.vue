@@ -4,7 +4,7 @@ import Aside from './Aside.vue';
 <template>
   <el-card class="box-card">
     <el-container>
-      <el-header class="header">小小的书店</el-header>
+      <el-header class="header">精品书店</el-header>
       <el-container>
         <el-aside>
           <Aside></Aside>

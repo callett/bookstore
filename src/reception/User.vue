@@ -26,7 +26,7 @@
 import { ref, onMounted, computed } from 'vue';
 
 const form = ref({
-  username: '乐乐',
+  username: 'admin',
   sex: '男',
   email: '12345678@qq.com',
   phone: '12345678910',
