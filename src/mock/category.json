@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "name": "四大名著",
+        "picture": "",
+        "pid": "0"
+    },
+    {
+        "id": "2",
+        "name": "西游记",
+        "picture": "static\/image\/goods\/xyj.jpg",
+        "pid": "1"
+    },
+    {
+        "id": "3",
+        "name": "三国演义",
+        "picture": "static\/image\/goods\/sgyy.jpg",
+        "pid": "1"
+    },
+    {
+        "id": "4",
+        "name": "水浒传",
+        "picture": "static\/image\/goods\/shz.jpg",
+        "pid": "1"
+    },
+    {
+        "id": "5",
+        "name": "红楼梦",
+        "picture": "static\/image\/goods\/hlm.jpg",
+        "pid": "1"
+    },
+    {
+        "id": "6",
+        "name": "其他名著",
+        "picture": "",
+        "pid": "0"
+    },
+    {
+        "id": "7",
+        "name": "钢铁是怎么炼成的",
+        "picture": "static\/image\/goods\/gt.jpg",
+        "pid": "1"
+    },
+    {
+        "id": "8",
+        "name": "上下五千年",
+        "picture": "static\/image\/goods\/wqn.jpg",
+        "pid": "1"
+    },
+    {
+        "id": "9",
+        "name": "三体",
+        "picture": "static\/image\/goods\/st.jpg",
+        "pid": "1"
+    },
+    {
+        "id": "9",
+        "name": "活着",
+        "picture": "static\/image\/goods\/hz.jpg",
+        "pid": "1"
+    },
+    {
+        "id": "9",
+        "name": "摆渡人",
+        "picture": "static\/image\/goods\/bdr.jpg",
+        "pid": "1"
+    }
+]

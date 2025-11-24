@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "category_id": "7",
+        "name": "西游记",
+        "price": "35.00",
+        "picture": "static\/image\/goods\/xyj.jpg",
+        "stock": "200",
+        "spec": "一本",
+        "description": "这部小说讲述了唐僧师徒四人前往西天取经，途中历经九九八十一难，降妖伏魔的故事。全书充满了神话色彩，展现了丰富的想象力和深刻的寓意。"
+    },
+    {
+        "id": "2",
+        "category_id": "7",
+        "name": "三国演义",
+        "price": "45.00",
+        "picture": "static\/image\/goods\/sgyy.jpg",
+        "stock": "200",
+        "spec": "一本",
+        "description": "这是一部以东汉末年到晋朝初年之间的历史为背景的长篇小说，描写了魏、蜀、吴三国之间的政治和军事斗争，塑造了众多鲜明的人物形象，如刘备、关羽、张飞、曹操等。‌"
+    },
+    {
+        "id": "3",
+        "category_id": "7",
+        "name": "水浒传",
+        "price": "38.00",
+        "picture": "static\/image\/goods\/shz.jpg",
+        "stock": "150",
+        "spec": "一本",
+        "description": "小说以北宋末年宋江起义为主要故事背景，描写了108位好汉在梁山泊聚义，反抗官府的故事，展现了封建社会的黑暗和人民的反抗精神。"
+    },
+    {
+        "id": "4",
+        "category_id": "7",
+        "name": "红楼梦",
+        "price": "50.00",
+        "picture": "static\/image\/goods\/hlm.jpg",
+        "stock": "500",
+        "spec": "一本",
+        "description": "这部小说以贾、史、王、薛四大家族的兴衰为背景，主要讲述了贾宝玉、林黛玉、薛宝钗之间的爱情故事，反映了封建社会的种种矛盾和人性的复杂。"
+    },
+    {
+        "id": "5",
+        "category_id": "7",
+        "name": "钢铁是怎么炼成的",
+        "price": "20.00",
+        "picture": "static\/image\/goods\/gt.jpg",
+        "stock": "36",
+        "spec": "一本",
+        "description": "这是一部自传体小说，讲述了主人公保尔·柯察金在革命战争中的成长历程，展现了他坚强的意志和崇高的理想。"
+    },
+    {
+        "id": "6",
+        "category_id": "7",
+        "name": "上下五千年",
+        "price": "60.00",
+        "picture": "static\/image\/goods\/wqn.jpg",
+        "stock": "500",
+        "spec": "一本",
+        "description": "这本书以通俗易懂的语言，讲述了中国从上古时期到清朝的历史故事，是了解中国历史的入门读物。"
+    },
+    {
+        "id": "7",
+        "category_id": "7",
+        "name": "三体",
+        "price": "2.00",
+        "picture": "static\/image\/goods\/st.jpg",
+        "stock": "90",
+        "spec": "一本",
+        "description": "这是一部科幻小说，讲述了人类与外星文明“三体”之间的接触与冲突，探讨了文明的生存与发展等深刻主题。‌"
+    },
+    {
+        "id": "8",
+        "category_id": "7",
+        "name": "活着",
+        "price": "25.00",
+        "picture": "static\/image\/goods\/hz.jpg",
+        "stock": "30",
+        "spec": "一本",
+        "description": "小说讲述了主人公福贵坎坷的一生，展现了在苦难中对生命的坚韧与执着，反思了人性的复杂和社会的变迁。"
+    },
+    {
+        "id": "9",
+        "category_id": "7",
+        "name": "摆渡人",
+        "price": "50.00",
+        "picture": "static\/image\/goods\/bdr.jpg",
+        "stock": "19",
+        "spec": "一本",
+        "description": "这部小说讲述了少女迪伦在遭遇事故后，灵魂被“摆渡人”带领，穿越荒原寻找自我的故事，探讨了生与死、爱与救赎的主题。‌"
+    }
+]
